@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "137991946334",
+    "project_id": "chrischat-258f2",
+    "storage_bucket": "chrischat-258f2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137991946334:android:2e7404a7f23f81a91ab4cf",
+        "android_client_info": {
+          "package_name": "com.example.chrischat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyGiW7sDoeRSBFbfOY7f_9K-SaLv9AhU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
